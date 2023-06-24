@@ -3,4 +3,13 @@
     color: blueviolet;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    height: 75px;
 }
+
+.footer {
+    background-color: brown;
+    color: azure;
+    text-align: center;
+    height: 60px;
+}
+
